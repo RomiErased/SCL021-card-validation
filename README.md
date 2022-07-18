@@ -11,7 +11,7 @@
 
 TickMas es una empresa de venta de boletos para conciertos, el cual ofrece además beneficios a sus clientes. En la página web permite validar una Giftcard regalada a cierto número de usuarios, los cuales tendrán opción de elegir entre dos tipos de conciertos.
 
-![imagen](paginaPrincipal.png)
+![imagen](https://github.com/RomiErased/SCL021-card-validation/blob/main/src/paginaPrincipal.png)
 
 Página principal con el botón de "Comenzar"
 
