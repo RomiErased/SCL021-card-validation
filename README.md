@@ -25,7 +25,7 @@ Tras la validación, la página indicará, mediante el algoritmo de Luhn si la G
 
 ## 2. Investigación UX
 
-- [*] **Uso de HTML semántico**
+Considerando que los conciertos son algo muy popular, la empresa de fantasía en cuestión tiene un sistema de regalos para sus usuarios, con la finalidad de fidelizar clientes.
 
 ### Prototipo inicial
 
