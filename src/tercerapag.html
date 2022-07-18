@@ -11,20 +11,31 @@
     <main>
       <center>
         <h2><span class="one">Valida tu GiftCard</span></h2>
-      
-       <!--contenido card validation-->
-       <div class="box-content">
-        <h3><p>Ingrese número de tarjeta</p></h3>
-        <input type="text" id="ncard" value="" placeholder="0000 0000 0000 0000" pattern="^[0-9]+" maxlength="16" required>
-        <br><br><br>
+
+        <!--contenido card validation-->
+        <div class="box-content">
+          <h3><p>Ingrese número de tarjeta</p></h3>
+          <input
+            type="text"
+            id="ncard"
+            value=""
+            placeholder="0000 0000 0000 0000"
+            pattern="^[0-9]+"
+            maxlength="16"
+            required
+          />
+        </div>
+        <br /><br /><br />
         <button class="button-21" id="validbtn">Validar</button>
         <button class="button-21" id="restartbtn">Intenta de nuevo</button>
 
-       <!--alerta para validar-->
-       <div class= "alertBox" style="display:none"> <!--Creamos un div llamado alertBox para llamar en nuestro JS-->
-          <p id="valid"></p> <!--Creamos una id llamada valid para llamar en nuestro JS-->
+        <!--alerta para validar-->
+        <div class="alertBox" style="display: none">
+          <!--Creamos un div llamado alertBox para llamar en nuestro JS-->
+          <p id="valid"></p>
+          <!--Creamos una id llamada valid para llamar en nuestro JS-->
         </div>
-    </center>
+      </center>
     </main>
     <script src="index.js" type="module"></script>
     <script src="validator.js"></script>
