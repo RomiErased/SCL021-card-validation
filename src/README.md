@@ -29,9 +29,9 @@ Considerando que los conciertos son algo muy popular, la empresa de fantasía en
 
 ### Prototipo inicial
 
-![imagen](Prototipo1.jpg)
+![imagen](Prototipo1.png)
 
-![imagen](Prototipo2.jpg)
+![imagen](Prototipo2.png)
 
 ### Feedback
 
