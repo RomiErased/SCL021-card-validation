@@ -29,7 +29,9 @@ Considerando que los conciertos son algo muy popular, la empresa de fantasía en
 
 ### Prototipo inicial
 
-![imagen]()
+![imagen](Prototipo1.jpg)
+
+![imagen](Prototipo2.jpg)
 
 ### Feedback
 
@@ -39,63 +41,55 @@ Considerando que los conciertos son algo muy popular, la empresa de fantasía en
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
-* HTML
+- HTML
 
-* Uso de HTML semántico
+- Uso de HTML semántico
 
-* CSS
+- CSS
 
 Web APIs
 
-* Uso de selectores del DOM
+- Uso de selectores del DOM
 
-* Manejo de eventos del DOM (listeners, propagación, delegación)
+- Manejo de eventos del DOM (listeners, propagación, delegación)
 
 Manipulación dinámica del DOM
 
-* JavaScript
+- JavaScript
 
+- Strings (cadenas de caracteres)
 
-*Strings (cadenas de caracteres)
+- Variables (declaración, asignación, ámbito)
 
- Variables (declaración, asignación, ámbito)
+- Uso de condicionales (if-else, switch, operador ternario, lógica booleana)
 
-Links
- Uso de condicionales (if-else, switch, operador ternario, lógica booleana)
+- Uso de bucles/ciclos (while, for, for..of)
 
-Links
- Uso de bucles/ciclos (while, for, for..of)
+- Funciones (params, args, return)
 
-Links
- Funciones (params, args, return)
+- Pruebas unitarias (unit tests)
 
-Links
- Pruebas unitarias (unit tests)
+Módulos de ECMAScript (ES Modules)
 
-Links
- Módulos de ECMAScript (ES Modules)
+Uso de linter (ESLINT)
 
-Links
- Uso de linter (ESLINT)
+- Uso de identificadores descriptivos (Nomenclatura y Semántica)
 
- Uso de identificadores descriptivos (Nomenclatura y Semántica)
+- Control de Versiones (Git y GitHub)
 
-Control de Versiones (Git y GitHub)
+- Git: Instalación y configuración
 
- Git: Instalación y configuración
+- Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)
 
- Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)
+- GitHub: Creación de cuenta y repos, configuración de llaves SSH
 
- GitHub: Creación de cuenta y repos, configuración de llaves SSH
+- GitHub: Despliegue con GitHub Pages
 
- GitHub: Despliegue con GitHub Pages
+- user-centricity
 
-Links
-user-centricity
+- Diseñar un producto o servicio poniendo a la usuaria en el centro
+  product-design
 
- Diseñar un producto o servicio poniendo a la usuaria en el centro
-product-design
+- Crear prototipos de alta fidelidad que incluyan interacciones
 
- Crear prototipos de alta fidelidad que incluyan interacciones
-
- Seguir los principios básicos de diseño visual
+- Seguir los principios básicos de diseño visual
