@@ -29,7 +29,9 @@ Considerando que los conciertos son algo muy popular, la empresa de fantasía en
 
 ### Prototipo inicial
 
-![imagen]()
+![imagen](https://github.com/RomiErased/SCL021-card-validation/blob/main/src/Prototipo1.png)
+
+![imagen](https://github.com/RomiErased/SCL021-card-validation/blob/main/src/Prototipo2.png)
 
 ### Feedback
 
